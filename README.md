@@ -8,8 +8,8 @@ You can use [maven](https://maven.apache.org/)
 
 ## Setup
 
-    git clone https://github.com/swkBerlin/kata-bootstraps
-    cd java/junit5
+    git clone https://github.com/jimetevenard/kata-bootstrap-junit5
+    cd kata-bootstrap-junit5
 
 Open as preexisting maven project in your favorite IDE
 
